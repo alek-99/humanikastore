@@ -229,47 +229,6 @@ Pastikan token disimpan di environment variable dan tidak dibagikan ke publik.
 
 ---
 
-##  Project Structure
-
-Gambaran struktur direktori utama aplikasi Laravel:
-humanikaStore/
-│
-├── app/
-│   ├── Http/
-│   │   ├── Controllers/
-│   │   └── Middleware/
-│   │
-│   └── Models/
-│
-├── database/
-│   ├── migrations/
-│   └── seeders/
-│
-├── public/
-│
-├── resources/
-│   ├── views/
-│   │   ├── admin/
-│   │   ├── user/
-│   │   ├── auth/
-│   │   └── layouts/
-│   │
-│   ├── css/
-│   └── js/
-│
-├── routes/
-│   ├── web.php
-│   └── auth.php
-│
-├── .env.example
-├── artisan
-├── composer.json
-├── package.json
-└── README.md
-```
-
----
-
 ## Financial Management
 
 Sistem menyediakan fitur monitoring keuangan sederhana untuk membantu admin mengetahui kondisi finansial toko.
