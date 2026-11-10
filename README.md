@@ -144,7 +144,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek di lingkungan lokal.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/ecommerce-startup.git
+git clone https://github.com/alek-99/humanikastore.git
 
 cd ecommerce-startup
 ```
